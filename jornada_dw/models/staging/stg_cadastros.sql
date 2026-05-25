@@ -20,6 +20,7 @@ transformado AS (
         -- Endereco
         cep,
         cidade,
+        sigla_uf,
 
         -- Datas
         data_cadastro as dt_cadastro,
